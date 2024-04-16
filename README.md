@@ -1,6 +1,7 @@
 <hr>
 
-## Registration Form
+## Registration Form<img width="1440" alt="Screenshot 2024-04-16 at 3 45 43 PM" src="https://github.com/kwakuduah12/registration-form/assets/115908616/3e0891a9-84a6-48a0-b8b1-a209d01600a0">
+
 
 #### Step 1
 
